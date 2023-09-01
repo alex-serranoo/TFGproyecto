@@ -1,0 +1,1 @@
+Para lanzar la aplicacion --> npm run dev
